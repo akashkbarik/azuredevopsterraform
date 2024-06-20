@@ -1,0 +1,6 @@
+agent_vm_name       = "agentvm"
+resource_group_name = "azuredevops"
+location            = "East US"
+vm_size             = "Standard_b2ms"
+admin_username      = "azureuser"
+admin_password      = "password@123"
